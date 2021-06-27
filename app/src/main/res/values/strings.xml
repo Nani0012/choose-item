@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Choose Item</string>
     <string name="deskripsi">
-        Kursi ini adalah kursi kualitas terbaik, yang di import langsung
+        Kursi ini adalah kursi kualitas terbaik, yang di import langsung dari luar
     </string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
